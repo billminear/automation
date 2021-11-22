@@ -1,8 +1,8 @@
-## Automation
+# Automation
 
 Simple examples of automating computer networking tasks.
 
-### Environment Requirements
+## Environment Requirements
 
 Python >= 3.8  
 Ansible >= 2.9
