@@ -4,7 +4,7 @@ Simple examples of automating computer networking tasks.
 
 ### Environment Requirements
 
-Python >= 3.8
+Python >= 3.8  
 Ansible >= 2.9
 
 Create a Python virtual environment and install the 
