@@ -17,6 +17,9 @@ tidyness of your base Python environment and provide
 a fresh environment for the required libraries to
 be installed into.
 ```sh
+# clone the repository with git.
+git clone https://github.com/billminear/automation.git
+
 # install virtualenv and setup a virtual environment.
 # - this is on Ubuntu Desktop 20.04. if you're using windows
 # - or macOS, the following commands may vary. be advised.
