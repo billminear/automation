@@ -1,7 +1,7 @@
 # Python Automation Resources
 
-The files in this repository are examples of using  
-Python, Jinja2, and YAML to automate common networking tasks.
+The files in this repository are examples of using Python, Jinja2,  
+and YAML to automate common networking tasks.
 
 ## Environment
 
