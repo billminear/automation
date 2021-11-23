@@ -25,7 +25,7 @@ git clone https://github.com/billminear/automation.git
 # - or macOS, the following commands may vary. be advised.
 python3 -m pip install virtualenv
 python3 -m venv ~/venvs/automation # adjust path to your liking.
-source ~/venv/automation/bin/activate # if you modified the path, update here.
+source ~/venvs/automation/bin/activate # if you modified the path, update here.
 
 # your virtual environment is now active. let's install
 # the required libraries.
