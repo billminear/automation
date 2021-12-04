@@ -18,7 +18,6 @@ if not os.path.isdir(OUTPUT_DIRECTORY):
     os.makedirs(OUTPUT_DIRECTORY)
 
 for device in devices:
-
     device_filename = f"{device['hostname']}.config"
     output_file_path = os.path.join(OUTPUT_DIRECTORY, device_filename)
 
